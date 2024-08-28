@@ -1,0 +1,108 @@
+!SESSION 2024-08-28 20:57:58.710 -----------------------------------------------
+eclipse.buildId=4.22.1.202405011620
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/shanyamishra/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/shanyamishra/.eclipse_keyring
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-08-28 20:57:59.799
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY org.eclipse.ui 2 0 2024-08-28 20:58:27.931
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-08-28 20:58:27.931
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-08-28 20:58:28.120
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-08-28 20:58:28.120
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-28 21:03:46.450
+!MESSAGE Classpath changed for project: Problem1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-08-28 21:03:46.849
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.aarch64_17.0.11.v20240426-1830/jre/bin/java
+-cp
+/Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.springframework.tooling.boot.ls_1.54.0.202405011602/servers/spring-boot-language-server/BOOT-INF/classes:/Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.springframework.tooling.boot.ls_1.54.0.202405011602/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.springframework.tooling.boot.ls_1.54.0.202405011602/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/Users/shanyamishra/Desktop/BajajFinservHealth/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1724859226849
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-28 21:03:46.849
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-08-28 21:03:46.852
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 28780
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-28 21:03:46.856
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-28 21:03:46.857
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-28 21:03:46.857
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-28 21:03:46.857
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-28 21:03:46.860
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-28 21:03:46.862
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-28 21:04:02.938
+!MESSAGE Classpath changed for project: Problem1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-28 21:04:02.951
+!MESSAGE Classpath changed for project: Problem1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-28 21:04:05.472
+!MESSAGE Classpath changed for project: Problem1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-28 21:04:10.118
+!MESSAGE Classpath changed for project: Problem1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-28 21:05:21.802
+!MESSAGE Classpath changed for project: Problem1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-28 21:07:51.657
+!MESSAGE Classpath changed for project: Problem1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-28 21:23:27.622
+!MESSAGE Classpath changed for project: Problem1
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-28 21:23:27.642
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-28 21:23:27.644
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-28 21:23:27.645
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-28 21:23:27.645
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-28 21:23:27.647
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-28 21:23:27.648
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2024-08-28 21:28:14.713
+!MESSAGE No repository found at http://download.eclipse.org/technology/m2e/releases/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2024-08-28 21:29:38.838
+!MESSAGE No repository found at http://dl.bintray.com/testng-team/testng-p2-release/.

@@ -1,0 +1,9 @@
+{
+  "key1": "Ayush",
+  "key2": {
+  "key3": "Kumar",
+  "destination": "240340120045"
+  },
+  "key4": [1, 2, {"destination": "ayush9kumar9@gmail.com"}]
+  }
+  
